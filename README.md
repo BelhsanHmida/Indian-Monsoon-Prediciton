@@ -1,7 +1,7 @@
 # Indian Monsoon Rainfall Prediction Project
 
 Welcome to the GitHub repository for the Indian Monsoon Rainfall Prediction Project! This repository contains a Jupyter notebook  that explores various linear regression models to forecast Indian monsoon rainfall. The aim is to propose a strategy for selecting the best linear model for this task.
-
+![Picture]](https://assets.telegraphindia.com/telegraph/2023/May/1685090244_monsoon.jpg)
 ## Project Overview
 The Indian monsoon has a significant impact on agriculture and water resources in India. Accurate predictions of monsoon rainfall are crucial for planning and managing these resources. This project focuses on developing a robust strategy for selecting the best linear regression model to predict Indian monsoon rainfall.
 
