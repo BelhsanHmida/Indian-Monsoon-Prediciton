@@ -32,7 +32,7 @@ The notebook is organized into the following key sections:
    - This section summarizes the key findings from the project and discusses the implications for monsoon forecasting and future research.
    
 ## References
-- [Timothy DelSole and J. Shukla Reaserche paper](https://journals.ametsoc.org/view/journals/clim/15/24/1520-0442_2002_015_3645_lpoimr_2.0.co_2.xml)
+- [Timothy DelSole and J. Shukla Reaserche paper](https://journals.ametsoc.org/view/journals/clim/15/24/1520-0442_2002_015_3645_lpoimr_2.0.co_2.xml)(AMS)
 - [Rainfall in India](https://www.kaggle.com/datasets/rajanand/rainfall-in-india) (Kaggle)
 - [NAO Monthly Index](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/norm.nao.monthly.b5001.current.ascii.table) (NOAA Climate Prediction Center)
 - [Niña 3.4 Index](https://psl.noaa.gov/data/correlation/nina34.data) (NOAA)
